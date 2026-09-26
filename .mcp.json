@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "robinhood-trading": {
+    "robinhood-trading-claude": {
       "type": "http",
       "url": "https://agent.robinhood.com/mcp/trading"
     }
